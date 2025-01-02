@@ -46,3 +46,4 @@
 | [Necati Doğrul](https://github.com/necatidogrul) | Frontend Developer | ![GitHub](https://img.shields.io/github/followers/necatidogrul?label=Takipçi&style=social) |
 | [Sena Engin](https://github.com/senaengin) | Frontend Developer | ![GitHub](https://img.shields.io/github/followers/senaengin?label=Takipçi&style=social) |
 | [Erkan Tokmak](https://github.com/erkantokmak) | Frontend Developer | ![GitHub](https://img.shields.io/github/followers/erkantokmak?label=Takipçi&style=social) |
+| [Onur Ardıç](https://github.com/erkantokmak) | Frontend Developer | ![GitHub](https://img.shields.io/github/followers/Onur-Ardic?label=Takipçi&style=social) |
