@@ -6,6 +6,7 @@
 | Proje | Team | Durum |
 |----------|----------|-------|
 | [Atmosware-WebSitesi](https://github.com/FreeFrontendTeam/atmosware-website) | Cosmos| 🛠️ Geliştirme aşamasında |
+| [Atmosware-WebSitesi-BE](https://github.com/FreeFrontendTeam/atmosware-website-be) | Cosmos| 🛠️ Geliştirme aşamasında |
 | [Retrosware](https://github.com/FreeFrontendTeam/retrosware) |Olimpos| 🛠️ Geliştirme aşamasında |
 | [Atos](https://github.com/FreeFrontendTeam/atos)  |Eternal Coders| 🛠️ Geliştirme aşamasında |
 | [Atos-BE](https://github.com/FreeFrontendTeam/atos-be)  |Eternal Coders| 🛠️ Geliştirme aşamasında |
