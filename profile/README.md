@@ -44,7 +44,6 @@
 | [Yaren Eylül Dökmez](https://github.com/yareneylul) | Frontend Developer | ![GitHub](https://img.shields.io/github/followers/yareneylul?label=Takipçi&style=social) |
 | [Mertcan Moran](https://github.com/mrtcnmrn5) | Frontend Developer | ![GitHub](https://img.shields.io/github/followers/mrtcnmrn5?label=Takipçi&style=social) |
 | [Tuğçe Nur Ergen](https://github.com/Tugcenrgn) | Frontend Developer | ![GitHub](https://img.shields.io/github/followers/Tugcenrgn?label=Takipçi&style=social) |
-| [Fatma Karasayar](https://github.com/Fatmakarasayar) | Frontend Developer | ![GitHub](https://img.shields.io/github/followers/Fatmakarasayar?label=Takipçi&style=social) |
 | [Fatih Dönmez](https://github.com/fatihdonmezdev) | Frontend Developer | ![GitHub](https://img.shields.io/github/followers/fatihdonmezdev?label=Takipçi&style=social) |
 | [Necati Doğrul](https://github.com/necatidogrul) | Frontend Developer | ![GitHub](https://img.shields.io/github/followers/necatidogrul?label=Takipçi&style=social) |
 | [Sena Engin](https://github.com/senaengin) | Frontend Developer | ![GitHub](https://img.shields.io/github/followers/senaengin?label=Takipçi&style=social) |
